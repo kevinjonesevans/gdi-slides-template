@@ -34,7 +34,7 @@ Note: This note is here for a markdown example.
  - http://localhost:8000/#/ goes to the index.html file
  - http://localhost:8000/yourfilename.html#/ goes to the new file
 4. To see the slides on github pages
- - http:yourghpagesdomainorcustomdomain.com/gdi-slides-template/ for the index files
- - http:yourghpagesdomainorcustomdomain.com/gdi-slides-template/yourfilename#/ goes to the new file
+ - http://yourghpagesdomainorcustomdomain.com/gdi-slides-template/ for the index files
+ - http://yourghpagesdomainorcustomdomain.com/gdi-slides-template/yourfilename#/ goes to the new file
 
 ---
