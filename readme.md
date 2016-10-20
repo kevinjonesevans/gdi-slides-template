@@ -5,7 +5,7 @@ This is my repo for using the slides template from gdi and having someplace to p
 
 - [Template Slides](http://kcjonesevans.com/gdi-slides-template/)
 - [GDI Leadership Summit 2016 slides](http://kcjonesevans.com/gdi-slides-template/gdi-leadership-summit-16.html#/)
-- [Markdown with Reveal Example](http://kcjonesevans.com/markdown-test.html#/)
+- [Markdown with Reveal Example](http://kcjonesevans.com/gdi-slides-template/markdown-test.html#/)
 
 Note: This note is here for a markdown example.
 
